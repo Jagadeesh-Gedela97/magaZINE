@@ -1,0 +1,2 @@
+# magaZINE
+magazine cover
