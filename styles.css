@@ -18,7 +18,7 @@ body {
   position: relative;
   width: 800px;
   height: 1000px;
-  background-image: url(./space.jpg); /* Add your futuristic image here */
+  background-image: url(space.jpg); /* Add your futuristic image here */
   background-size: cover;
   background-position: center;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
@@ -146,4 +146,5 @@ body {
 
 .featured-title {
   animation: glow 2s infinite;
+
 }
